@@ -1,0 +1,2 @@
+1. Uruchom init.m
+2. Uruchom Projekt.slx / Projekt.mdl
